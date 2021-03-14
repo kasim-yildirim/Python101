@@ -1,5 +1,5 @@
 # Python101
-<img align="right" alt="PNG" src="https://github.com/kasim-yildirim/Python101/blob/main/python-logo.png" width="400" height="200" />
+<img align="right" alt="PNG" src="https://github.com/kasim-yildirim/Python101/blob/main/python-logo.png" width="600" height="200" />
 
 Döküman İçeriği;
  - Veri Tipleri
