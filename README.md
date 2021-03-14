@@ -19,7 +19,7 @@ Döküman İçeriği;
  - Numpy
  - Pandas
  - Matplotlib
- - Ve konularla ilgili Örnek Uygulamalar
+ - Ve Konularla ilgili Örnek Uygulamalar
 
 Yararlanılan Kaynaklar;
  - https://python-istihza.yazbel.com
